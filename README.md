@@ -104,8 +104,7 @@ flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-4. Configure Firebase for your platform (Android/iOS/Web)
-   Follow the official Firebase setup guides to add `google-services.json` or `GoogleService-Info.plist`
+4. Set up firebase config
 
 5. Run the app
 
