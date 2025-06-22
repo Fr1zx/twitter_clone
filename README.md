@@ -23,7 +23,6 @@ The app focuses on an elegant and modern UI/UX with carefully crafted animations
 * **User Authentication** with Firebase Authentication
 * **Realtime data** storage and synchronization via Cloud Firestore
 * **Image upload and caching** for avatars and post images
-* **Push notifications** powered by Firebase Messaging
 * **Smooth animations** throughout the app using `flutter_animate`
 * **State management** using the powerful BLoC pattern with `flutter_bloc`
 * Navigation handled by `go_router` for clean and declarative routing
