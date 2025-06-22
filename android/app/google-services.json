@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643079545704",
+    "project_id": "frizter-dbc46",
+    "storage_bucket": "frizter-dbc46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643079545704:android:23cdf1b71421fe60dcecdd",
+        "android_client_info": {
+          "package_name": "com.example.frizter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2zxQWvmiZhySEUDF2JgmXoi5lC5Qdcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
